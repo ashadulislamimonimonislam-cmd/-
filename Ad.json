@@ -10,7 +10,7 @@
       "max_devices": 100
     },
     {
-      "key": "FREE",
+      "key": "ADFREE",
       "device_id": "", 
       "expiry_date": "2027-12-30",
       "active": true,
